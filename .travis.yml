@@ -1,0 +1,10 @@
+# Travis CI
+language: ruby
+
+rvm:
+  - 2.2.6
+
+gemfile:
+  - Gemfile
+
+install: gem install bunto
