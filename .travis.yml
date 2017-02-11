@@ -6,3 +6,5 @@ rvm:
 
 gemfile:
   - Gemfile
+
+script: bundle exec rake travisci
